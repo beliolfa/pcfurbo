@@ -1,14 +1,14 @@
-# INSTALACION
+# Instalación
 
 Steps to compile in each plattform
 
-# ELECCIÓN DE EQUIPO
+# Elección de Equipo
 
 Una vez dentro de la pantalla de selección de equipo, se mostrará un menú de equipos al cual le corresponde un número identificador.
 Lo primero que se le pide es que introduzca un nombre de entrenador, es decir, su nombre. Una vez introducido y comprobado que sea correcto se le pedirá que indique el numero identificador que corresponde al equipo deseado.
 Tras esta elección se pasa a la pantalla de Gestión.
 
-# GESTIÓN DE ENTRENADOR
+# Gestión de Entrenador
 
 En la pantalla de Gestión se puede acceder a distintos apartados, los cuales se desglosan a continuación:
 
@@ -61,7 +61,9 @@ Para volver a la gestión principal de entrenador pulsa cualquier tecla.
 En la pantalla principal de gestión pulsa la tecla “S”. Seguidamente saldrás del juego.
 Acuérdate de guardar la partida antes de salir.
 
-# GUARDAR Y CARGAR PARTIDAS
+# Guardar y Cargar partidas
+
+Not working
 
 ## Guardar
 
